@@ -1,0 +1,35 @@
+* {
+	font: 13px;
+	font-family: Times New Roman;
+}
+.container {
+	width: 770px;
+	height: 440px;
+}
+.flex {
+	display: flex;
+}
+.bg-primary {
+	height: 50px;
+}
+
+#idProduct {
+	width: 260px;
+	height: 190px;
+}
+
+.image {
+	width: 115px;
+	height: 150px;
+	float: left;
+}
+
+.bottom {
+	background-color: #48adc9;
+	clear: both;
+	display: inline-block;
+	margin-left: 30px;
+}
+a{
+	text-decoration: none;
+}
